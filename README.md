@@ -21,6 +21,9 @@ https://dry-everglades-51623.herokuapp.com/d1ecae32-a3fa-43cb-a30d-524ea667cfdb
 - Add Mute button
 - Add Stop Video button
 
+# Techonologies used 
+Node JavaScript, Express JavaScript, CSS, Socket.IO, Peer JavaScript, uuid
+
 # My Personal Notes for this project
 
 uuid - I need the unique id which is uuid that will generate random IDs, for every specific room, I give unique id so
