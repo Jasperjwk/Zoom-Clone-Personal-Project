@@ -1,9 +1,11 @@
 # Tech in my project build
 
-1) React js - front end
-2) Node js - back end
-3) Express - build web application
-4) Embedded JavaScript - It will help us to get variables from the backend to the front end
+1) Node JavaScript
+2) Express JavaScript
+3) CSS
+4) Socket.IO
+5) Peer JavaScript
+6) uuid
 
 # My Project Deployment
 https://dry-everglades-51623.herokuapp.com/d1ecae32-a3fa-43cb-a30d-524ea667cfdb
